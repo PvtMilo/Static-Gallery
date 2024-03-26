@@ -1,0 +1,61 @@
+
+body {
+    padding-bottom: 100px;
+    background-color: #152836;
+    color: white;
+}
+
+nav {
+    background-color: #152836
+}
+.navbar.scrolled {
+    background-color: #152836;
+    transition: background 500ms;
+}
+
+.row {
+    margin: 15px;
+}
+
+.container h1 {
+    margin-top: 140px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 350;
+}
+
+h2 {
+    padding: auto;
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 450;
+    color: white;
+}
+
+#navbar {
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1rem;
+
+}
+
+.navbar.scrolled {
+    background-color: #c2ded1;
+    transition: background 500ms;
+}
+
+#navbar a {
+    color: white;
+    margin-left:10px ;
+}
+
+.img-navbar {
+    width: 45px;
+}
+
+#image {
+    padding: 100px;
+}
